@@ -33,7 +33,7 @@ function kkktp_banner(){
   ███   ▀█▀    ▄████▀    ▄████▀                  ███   ▀█▀   ███   ▀█▀ 
   ▀                                                          ▀         
 
- ║ Coded by:  ./HEZAL     ║ ║ Youtube  : Inti Tutorial   ║
+ ║ Coded by:  ./Wandintutorial    ║ ║ Youtube  : Inti Tutorial   ║
  ║ Team : NewbieTester Id ║ ║ Whatsapp : 0853-3261-4787  ║     					  
   \n";
 }
