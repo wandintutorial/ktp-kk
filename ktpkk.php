@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 error_reporting(0);
-require 'Wandintutorial.php';
+require 'Wandin Tutorial.php';
 echo $cln;
 system("clear");
 kkktp_banner();
