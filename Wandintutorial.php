@@ -34,7 +34,7 @@ function kkktp_banner(){
   ▀                                                          ▀         
 
  ║ Coded by:  ./Wandintutorial   ║ ║ Youtube  : Wandin Tutorial   ║
- ║ Team : NewbieTester Id ║ ║ Whatsapp : 0853-3261-4787  ║     					  
+ ║ Team : NewbieTester Id ║ ║ Whatsapp : 082278103168 ║     					  
   \n";
 }
 ?> 
