@@ -33,8 +33,8 @@ function kkktp_banner(){
   ███   ▀█▀    ▄████▀    ▄████▀                  ███   ▀█▀   ███   ▀█▀ 
   ▀                                                          ▀         
 
- ║ Coded by:  ./Wandintutorial    ║ ║ Youtube  : Inti Tutorial   ║
- ║ Team : NewbieTester Id ║ ║ Whatsapp : 0853-3261-4787  ║     					  
+ ║ Coded by:  ./Wandintutorial    ║ ║ Youtube  : Wandin Tutorial   ║
+ ║ Team :berkarya ║ ║ Whatsapp : 082278103168  ║     					  
   \n";
 }
 ?> 
