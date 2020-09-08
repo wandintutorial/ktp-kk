@@ -33,7 +33,7 @@ function kkktp_banner(){
   ███   ▀█▀    ▄████▀    ▄████▀                  ███   ▀█▀   ███   ▀█▀ 
   ▀                                                          ▀         
   (Semoga bermanfa't)
- ║ Coded by:  ./Wandin Tutorial   ║ ║ Youtube  : Wandin Tutorial   ║
+ ║ Coded by:  ./Wandintutorial  ║ ║ Youtube  : Wandin Tutorial   ║
  ║ Team :berkarya ║ ║ Whatsapp : 082278103168  ║     					  
   \n";
 }
